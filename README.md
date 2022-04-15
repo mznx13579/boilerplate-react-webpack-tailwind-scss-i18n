@@ -14,6 +14,7 @@ react boilerplate
 - PostCss
 - ESLint
 - Prettier
+- React-Router
 - Babel
 - Jest
 - i18n
