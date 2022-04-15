@@ -3,7 +3,7 @@ boilerplate-react-webpack-tailwind-scss-i18n
 
 react boilerplate
 
-* Inside *
+*INSIDE*
 
 
 - React 18
